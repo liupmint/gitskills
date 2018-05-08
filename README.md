@@ -18,11 +18,11 @@ void main()
 	}
 	for(x = 100; x<=290; x+=95)
 	{
-		fillcircle(x, 275, 4);	//第一排的点
+		fillcircle(x, 275, 4);	//第二排的点
 	}
 	for(x = 100; x<=290; x+=95)
 	{
-		fillcircle(x, 370, 4);	//第一排的点
+		fillcircle(x, 370, 4);	//第三排的点
 	}
 	
 	getch();
